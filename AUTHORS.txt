@@ -1,0 +1,6 @@
+Authors 
+
+Viktor-Eriksson Möllerstedt (Lead Developers)
+Benjamin Donnot (Main Contributors)
+Antoine Marot (Further Contributions by)
+Laure Crochepierre (Further Contributions by)
